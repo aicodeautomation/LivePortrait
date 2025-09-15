@@ -1,3 +1,14 @@
+<h1>Tested Env:</h1>
+
+1. RTX 5070  
+1. cuDNN 9.13.0: https://developer.nvidia.com/cudnn-archive  
+1. CUDA 12.8: https://developer.nvidia.com/cuda-12-8-0-download-archive  
+1. python: 3.10  
+1. torch:2.7.1+cu128, torchaudio:2.7.1+cu128, torchvision: 0.22.1+cu128 
+```pip install torch==2.7.1+cu128 torchvision==0.22.1+cu128 torchaudio==2.7.1 --index-url https://download.pytorch.org/whl/cu128]```
+
+---
+
 <h1 align="center">LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control</h1>
 
 <div align='center'>
